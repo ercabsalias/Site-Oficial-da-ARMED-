@@ -39,9 +39,11 @@ Para executar o projeto localmente, siga os passos abaixo:
    ```bash
    git clone (https://github.com/ercabsalias/Site-Oficial-da-ARMED-)
 2. Instale as dependências:
+    ```bash
    yarn install
    
 4. Inicie o servidor de desenvolvimento:
+   ```bash
    yarn start
    
-5. Abra o navegador e acesse http://localhost:3000 para visualizar o projeto.
+6. Abra o navegador e acesse http://localhost:3000 para visualizar o projeto.
