@@ -28,8 +28,8 @@ Para acessar as diferentes camadas do projeto, siga as instruções abaixo:
 
 ## Tecnologias Utilizadas
 
-- ReactJS (ou a tecnologia que você utilizou)
-- [Outras tecnologias e bibliotecas utilizadas]
+- ReactJS
+- CSS (Puro)
 
 ## Como Executar o Projeto
 
