@@ -37,7 +37,7 @@ Para executar o projeto localmente, siga os passos abaixo:
 
 1. Clone o repositório:
    ```bash
-   git clone (https://github.com/ercabsalias/Site-Oficial-da-ARMED-)
+   git clone https://github.com/ercabsalias/Site-Oficial-da-ARMED-
 2. Instale as dependências:
     ```bash
    yarn install
